@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Everything Chester</title>
+  <link>http://www.everythingchester.co.uk/</link>
+  <description>The Home Of Everything Chester, Cheshire In The UK</description>
+  <item>
+    <title>First RSS Publiction</title>
+    <link>http://www.everythingchester.co.uk/</link>
+    <description>Everything Chester RSS Feed Coming Soon. Subscribe For All The Latest Chester Updates</description>
+	<language>en-gb</language>
+  </item>
+   <item>
+    <title>Everything Chester Blog Coming Soon</title>
+    <link>http://www.everythingchester.co.uk/everything-chester-blog.html</link>
+    <description>The Everything Chester Blog page is now live. The first blog post will be coming soon. Watch this space!</description>
+	<language>en-gb</language>
+  </item>
+  <item>
+    <title>Everything Chester First Blog Post</title>
+    <link>http://www.everythingchester.co.uk/everything-chester-blog.html#BlogPostNo0001</link>
+    <description>The first blog post on Everything Chester. It covers what has happened in the first month and the future plans for Everything Chester.</description>
+	<language>en-gb</language>
+  </item>
+  
+</channel>
+
+</rss>
+
+<!-- This is an RSS comment -->

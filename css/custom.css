@@ -1,0 +1,95 @@
+
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-inverse {
+	background: #00B0EB;
+	border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #00B0EB; 
+}
+
+.dropdown-menu {
+	background: #2E2F31;
+	border-radius: 0;
+	border: 0;
+}
+.dropdown-menu li a {
+	padding: 10px;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #00B0EB; 
+}
+
+body {
+	background: #FFFFFF;
+	color: #000000;
+	font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: bold;
+	color: #00B0EB;
+}
+p {
+	font-size: 16px;
+	color: #000000;
+}
+
+
+
+.center {
+    text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.jumbotron {
+	background: #00B0EB;
+	color: white;
+	text-align: center;
+}
+.jumbotron p {
+	color: white;
+	font-size: 26px;
+}
+.jumbotron {
+	margin-bottom: 0;
+}
+
+/* unvisited link */
+a:link {
+    color: #00B0EB;
+	font-weight: bold
+}
+
+/* visited link */
+a:visited {
+    color: #00B0EB;
+	font-weight: bold
+}
+
+/* mouse over link */
+a:hover {
+    color: #00B0EB;
+	font-weight: bold
+}
+
+/* selected link */
+a:active {
+    color: #00B0EB;
+	font-weight: bold
+}
